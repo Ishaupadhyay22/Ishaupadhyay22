@@ -105,31 +105,11 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
 
 Working on improving:
 
-* AI agent architecture
-* Retrieval and ranking
-* Vector search
 * Recommendation quality
 * Backend scalability
 * Production deployment
 
 > 🚧 Some projects and experiments are currently private and will be made public as they reach a stable stage.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ishaupadhyay22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Isha's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaupadhyay22&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishaupadhyay22&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
 
 ---
 
