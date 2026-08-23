@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha Upadhyay</h1>
 
 <h3 align="center">
-Software Engineer | Backend & Full-Stack Development | AI Applications
+Software Engineer | Backend Engineering | Full-Stack Development | AI Applications
 </h3>
 
 ---
@@ -9,38 +9,28 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
 ## 👩‍💻 About Me
 
 * 🔭 Currently building **ScentAI**, an AI-powered semantic recommendation platform.
-* 💻 Software Engineer with experience building **backend services, REST APIs, microservices, and cloud-native applications**.
-* ☕ Focused on **backend engineering, Java/Spring Boot, system design, and distributed systems.**.
-* 🤖 Exploring **AI/LLM applications, RAG, semantic search, vector embeddings, and AI agents**.
-* 🌱 Currently learning **System Design and AI/LLM Applications**.
-* 🚀 I enjoy building scalable systems that solve real-world problems.
-* 📚 Currently strengthening my **Data Structures & Algorithms** and backend architecture skills.
+* 💻 Software Engineer focused on **backend services, REST APIs, microservices, and cloud-native applications**.
+* ☕ Strong interest in **Java, Spring Boot, system design, distributed systems, and scalable backend architecture**.
+* 🤖 Exploring **RAG, LLM applications, semantic search, vector embeddings, and AI agents**.
+* 🌱 Currently strengthening my **System Design, AI/LLM, and Data Structures & Algorithms** skills.
+* 🚀 I enjoy designing and building scalable systems that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Backend & Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
 </p>
 
-### Backend & APIs
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="FastAPI"/>
-</p>
-
-**Java • Spring Boot • Spring MVC • Node.js • FastAPI • REST APIs • Microservices**
+**Java • Spring Boot • Spring MVC • Python • Node.js • FastAPI • REST APIs • Microservices • SQL**
 
 ### Frontend
 
@@ -52,13 +42,13 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
 </p>
 
-**React • Next.js • Redux • JavaScript • TypeScript • HTML • CSS • Tailwind CSS**
+**React • Next.js • Redux • TypeScript • JavaScript • HTML • CSS • Tailwind CSS**
 
-### AI / ML
+### 🤖 AI / ML
 
 **RAG • LLM Applications • AI Agents • Semantic Search • Vector Embeddings • NLP • Prompt Engineering**
 
-### Cloud, DevOps & Testing
+### ☁️ Cloud, DevOps & Testing
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
@@ -77,7 +67,9 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
 
 ### 🧴 ScentAI — AI-Powered Semantic Recommendation Platform
 
-> An AI-powered fragrance recommendation platform using RAG, vector embeddings, semantic retrieval, and an LLM-based agent.
+> AI-powered fragrance recommendation platform using **RAG, vector embeddings, semantic retrieval, and an LLM-based agent**.
+
+**Focus:** AI Engineering • Semantic Search • RAG • Backend Architecture • Recommendation Systems
 
 🔗 [View ScentAI](https://github.com/Ishaupadhyay22/ScentAI)
 
@@ -85,17 +77,19 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
 
 ### 🏫 GRASS — Grant Allotment System for School
 
-> A government-oriented grant management platform designed for authentication, request tracking, and dynamic reporting.
+> Government-oriented grant management platform focused on **authentication, request tracking, workflow management, and dynamic reporting**.
+
+**Focus:** Java • Spring Boot • REST APIs • Backend Architecture • Database Design
 
 🔗 [View GRASS](https://github.com/Ishaupadhyay22/GRASS)
-
-###
 
 ---
 
 ### 🚆 Railway Platform Management System
 
-> A railway platform scheduling system focused on concurrency, synchronization, and operating-system concepts.
+> Railway platform scheduling system focused on **concurrency, synchronization, resource management, and operating-system concepts**.
+
+**Focus:** Concurrency • Synchronization • Scheduling • Systems Programming
 
 ---
 
@@ -103,46 +97,53 @@ Software Engineer | Backend & Full-Stack Development | AI Applications
 
 ### ScentAI
 
-Working on improving:
+Currently improving:
 
-* Recommendation quality
-* Backend scalability
-* Production deployment
+* 🎯 Recommendation quality
+* 🔎 Semantic retrieval
+* 🧠 RAG pipeline
+* ⚡ Backend scalability
+* ☁️ Production deployment
 
 > 🚧 Some projects and experiments are currently private and will be made public as they reach a stable stage.
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Activity
+
+### 🕐 Contribution History
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaupadhyay22&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="./assets/lifetime.light.svg" alt="GitHub contribution history" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>Contribution history across multiple years — automatically updated through GitHub Actions.</sub>
 </p>
 
 ---
 
-## 📦 GitHub Summary
+## 🧩 Languages & Engineering Focus
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaupadhyay22&theme=github" alt="GitHub Profile Details" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaupadhyay22&theme=github&exclude=HTML,CSS,Jupyter%20Notebook" alt="Languages by repository"/> </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishaupadhyay22&theme=github" alt="GitHub Stats Summary" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaupadhyay22&theme=github&exclude=HTML,CSS,Jupyter%20Notebook" alt="Languages by commits"/> </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaupadhyay22&theme=github" alt="Repositories per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaupadhyay22&theme=github" alt="Most Commit Language" />
-</p>
-
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishaupadhyay22&theme=github" alt="GitHub statistics"/> </p>
 ---
 
-## 🧩 Commit & Contribution Activity
+## 🧠 Engineering Interests
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishaupadhyay22&theme=github&utcOffset=5.5" alt="Productive Time" />
-</p>
+* System Design
+* Distributed Systems
+* Microservices Architecture
+* REST API Design
+* Database Design
+* Concurrency & Synchronization
+* Caching & Scalability
+* RAG & Semantic Search
+* LLM Applications
+* AI Agents
 
 ---
 
