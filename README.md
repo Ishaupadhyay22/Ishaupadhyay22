@@ -146,19 +146,6 @@ Working on improving:
 
 ---
 
-## 📌 GitHub Repositories
-
-<p align="center">
-  <a href="https://github.com/Ishaupadhyay22/ScentAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaupadhyay22&repo=ScentAI&hide_border=true" alt="ScentAI" />
-  </a>
-  <a href="https://github.com/Ishaupadhyay22/GRASS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaupadhyay22&repo=GRASS&hide_border=true" alt="GRASS" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
